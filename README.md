@@ -1,1 +1,1 @@
-# graph-property-checker
+# GRAPH-PROPERTY-CHECKER
